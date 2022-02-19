@@ -18,5 +18,6 @@ public class QueryRunnerTest {
         System.out.println("添加了"+count+"条记录");
 
         JDBCUtils.closeResource(conn,null);
+        System.out.println("hello");
     }
 }

@@ -21,6 +21,7 @@ public class QueryRunnerTest {
         System.out.println("hello");
         System.out.println("asfdasdsry");
         System.out.println("hello,git4dfad-master test");
+        System.out.println("git push");
 
     }
 }

@@ -20,7 +20,7 @@ public class QueryRunnerTest {
         JDBCUtils.closeResource(conn,null);
         System.out.println("hello");
 
-        System.out.println("hello,git4");
+        System.out.println("hello,git4dfad-master test");
 
     }
 }
